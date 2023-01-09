@@ -22,7 +22,7 @@ const Hero = () => {
           </h1>
           <div className='ss:flex hidden md:mr-4 mr-0'>
             <GetStarted/>
-            {/* 53:28 */}
+            {/* 58:38 */}
           </div>
         </div>
       </div>
